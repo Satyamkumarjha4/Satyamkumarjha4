@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Kumar Jha</h1>
 <h3 align="center">A passionate AIML Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Online Code Editor**
-
 - 🌱 I’m currently learning **AIML tools and NLP**
 
 - 📫 How to reach me **satyamjha4@gmail.com**
